@@ -1,7 +1,6 @@
 from page_objects.stqatools.home_page import HomePage
 
 import pytest
-import time
 
 
 class TestWebTable:
